@@ -1,0 +1,6 @@
+low_mem: true
+drop_last: true
+train: obj_Train_data
+val: obj_Val_data
+nc: 6
+names: [Ross, Phoebe, Rachel, Joey, Chandler, Monica]
