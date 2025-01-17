@@ -12,7 +12,7 @@ O objetivo principal deste projeto é demonstrar o uso de redes neurais para a d
 
 ### 1. **Coleta de Dados**
 
-O dataset foi coletado na plataforma [Kaggle](https://www.kaggle.com/datasets/amiralikalbasi/images-of-friends-character-for-face-recognition), com imagens dos atores da série *Friends* e criado as etiquetas com auxilio da plataforma [CVAT](cvat.com). As bounding box foram criadas uma a uma, imagem a imagem.
+O dataset foi coletado na plataforma [Kaggle](https://www.kaggle.com/datasets/amiralikalbasi/images-of-friends-character-for-face-recognition), com imagens dos atores da série *Friends* e criado as etiquetas com auxilio da plataforma [CVAT](https://www.cvat.ai/). As bounding box foram criadas uma a uma, imagem a imagem.
 
 ### 2. **Treinamento do Modelo**
 
