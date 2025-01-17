@@ -34,7 +34,7 @@ Os resultados foram satisfatórios, com boa precisão na detecção dos personag
 
 ### 6. **Vídeo de Demonstração**
 
-O vídeo demonstrativo pode ser acessado no seguinte [link do Google Drive]([#](https://drive.google.com/drive/folders/1nPlf9R_vJX-BI7qtqRxB8XXpi56cQQEs?usp=sharing)), onde você pode ver o modelo realizando a detecção em tempo real.
+O vídeo demonstrativo pode ser acessado no seguinte link do [Google Drive](https://drive.google.com/drive/folders/1nPlf9R_vJX-BI7qtqRxB8XXpi56cQQEs?usp=sharing), onde você pode ver o modelo realizando a detecção em tempo real.
 
 ## Tecnologias Usadas
 
