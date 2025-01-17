@@ -7,6 +7,9 @@ import win32con
 from ultralytics import YOLO
 from collections import deque
 
+# Nome do seu arquivo de video destino
+window_title = "Friends.MKV" 
+
 # Carregar o modelo treinado
 model = YOLO(f"runs/detect/train4/weights/best.pt")
 
@@ -48,8 +51,6 @@ def capture_window(window_title):
     img = cv2.cvtColor(img, cv2.COLOR_BGRA2BGR)
 
     return img
-
-window_title = "Friends.MKV" 
 
 # Iniciar loop de captura de janela e detecção
 running = True
