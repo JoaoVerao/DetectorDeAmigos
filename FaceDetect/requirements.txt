@@ -1,0 +1,4 @@
+numpy==2.0.2
+PyGetWindow==0.0.9
+ultralytics==8.3.62
+opencv-python==4.11.0.86
