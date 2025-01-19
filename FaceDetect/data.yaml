@@ -1,5 +1,0 @@
-low_mem: true
-train: C:\Users\Verao\Documents\DIO\FaceDetect\Dataset\obj_train_data
-val: C:\Users\Verao\Documents\DIO\FaceDetect\Dataset\obj_val_data
-nc: 2
-names: [Eu, Outros]
